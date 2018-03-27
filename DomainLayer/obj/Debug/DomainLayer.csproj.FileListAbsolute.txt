@@ -1,0 +1,5 @@
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\bin\Debug\DomainLayer.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\bin\Debug\DomainLayer.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\obj\Debug\DomainLayer.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\obj\Debug\DomainLayer.pdb
