@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DomainLayer
+﻿namespace DomainLayer
 {
     public abstract class CustomerBase
     {
@@ -8,18 +6,13 @@ namespace DomainLayer
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
         public abstract CustomerBase Clone();
-        private IValidationStrategy<CustomerBase> _ValidationType = null;
+
         public CustomerBase(IValidationStrategy<CustomerBase> _Validate)
         {
-            _ValidationType = _Validate;
+            ValidationType = _Validate;
         }
-        public IValidationStrategy<CustomerBase> ValidationType
-        {
-            get
-            {
-                return _ValidationType;
-            }
-        }
+        public IValidationStrategy<CustomerBase> ValidationType { get; } = null;
+
         public void Validate()
         {
             ValidationType.Validate(this);

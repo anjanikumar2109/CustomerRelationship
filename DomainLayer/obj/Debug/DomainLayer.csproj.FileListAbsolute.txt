@@ -3,3 +3,9 @@ C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\bin\Debug
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\bin\Debug\DomainLayer.pdb
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\obj\Debug\DomainLayer.dll
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\Phase1\obj\Debug\DomainLayer.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\DomainLayer\obj\Debug\DomainLayer.pdb

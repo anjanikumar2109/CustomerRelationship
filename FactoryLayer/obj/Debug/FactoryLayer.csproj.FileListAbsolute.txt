@@ -21,3 +21,5 @@ C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\bin
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\bin\Debug\Unity.Interception.Configuration.pdb
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\bin\Debug\Unity.RegistrationByConvention.pdb
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\obj\Debug\FactoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\FactoryLayer\obj\Debug\FactoryLayer.csproj.CopyComplete

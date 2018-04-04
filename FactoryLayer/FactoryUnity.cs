@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.Practices.Unity;
+﻿using DomainLayer;
 using Unity;
 using Unity.Injection;
-using DomainLayer;
 
 namespace FactoryLayer
 {

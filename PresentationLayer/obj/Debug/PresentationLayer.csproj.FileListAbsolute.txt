@@ -15,3 +15,5 @@ C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLaye
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\Unity.Container.dll
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\Unity.Abstractions.pdb
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\Unity.Container.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
