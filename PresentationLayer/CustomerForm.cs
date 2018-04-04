@@ -22,7 +22,7 @@ namespace PresentationLayer
             {
                 using (var document = PdfDocument.Load(@"../../input/Sample.pdf"))
                 {
-                    var image = document.Render(0, 300, 300, true);
+                    var image = document.Render(0, 1024, 1024, PdfRenderFlags.CorrectFromDpi);
                     image.Save(@"../../output/Sample.png", ImageFormat.Png);
                     MessageBox.Show("Done! Check output directory.");
 
