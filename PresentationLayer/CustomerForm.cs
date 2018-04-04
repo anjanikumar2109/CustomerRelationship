@@ -1,5 +1,6 @@
 ﻿using DomainLayer;
 using FactoryLayer;
+using PdfiumViewer;
 using System;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
@@ -13,6 +14,24 @@ namespace PresentationLayer
         public CustomerForm()
         {
             InitializeComponent();
+        }
+
+        void GenerateBitmap()
+        {
+            try
+            {
+                using (var document = PdfDocument.Load(@"../../input/Sample.pdf"))
+                {
+                    var image = document.Render(0, 300, 300, true);
+                    image.Save(@"../../output/Sample.png", ImageFormat.Png);
+                    MessageBox.Show("Done! Check output directory.");
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void SetCustomer()
@@ -46,6 +65,11 @@ namespace PresentationLayer
             {
                 MessageBox.Show(ex.Message);
             }            
+        }
+
+        private void btnConvert_Click(object sender, EventArgs e)
+        {
+            GenerateBitmap();
         }
     }
 

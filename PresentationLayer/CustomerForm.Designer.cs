@@ -38,6 +38,7 @@
             this.btnValidate = new System.Windows.Forms.Button();
             this.txtCustomerAddress = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.btnConvert = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnAdd
@@ -129,11 +130,22 @@
             this.label4.TabIndex = 8;
             this.label4.Text = "Customer Address";
             // 
+            // btnConvert
+            // 
+            this.btnConvert.Location = new System.Drawing.Point(23, 279);
+            this.btnConvert.Name = "btnConvert";
+            this.btnConvert.Size = new System.Drawing.Size(121, 39);
+            this.btnConvert.TabIndex = 10;
+            this.btnConvert.Text = "Convert";
+            this.btnConvert.UseVisualStyleBackColor = true;
+            this.btnConvert.Click += new System.EventHandler(this.btnConvert_Click);
+            // 
             // CustomerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(544, 397);
+            this.Controls.Add(this.btnConvert);
             this.Controls.Add(this.txtCustomerAddress);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnValidate);
@@ -163,6 +175,7 @@
         private System.Windows.Forms.Button btnValidate;
         private System.Windows.Forms.TextBox txtCustomerAddress;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button btnConvert;
     }
 }
 

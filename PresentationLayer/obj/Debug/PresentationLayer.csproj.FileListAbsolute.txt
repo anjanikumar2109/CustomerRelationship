@@ -17,3 +17,8 @@ C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLaye
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\Unity.Container.pdb
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
 C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\x64\pdfium.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\x86\pdfium.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\PdfiumViewer.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\PdfiumViewer.xml
+C:\Users\wiznidev\Anjani\Training\Tutorial\CustomerRelationship\PresentationLayer\bin\Debug\nl\PdfiumViewer.resources.dll
